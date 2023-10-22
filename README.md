@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+![Game Center](/src/assets/game-center.png "Game Center")
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
