@@ -2,10 +2,10 @@
 
 ![Game Center](/src/assets/game-center.png "Game Center")
 
-[Live demo]('https://game-hub-ten-indol.vercel.app/)
+[Live demo](https://game-hub-ten-indol.vercel.app/)
 
 
-Welcome to Awesome Game Explorer, your go-to platform for discovering games from rawg.io. Explore a wide range of games, switch between light and dark modes, filter by game genre, platform, and date created, and easily search for your favorite titles. Let the gaming adventure begin! 🚀
+Welcome to Awesome Game Explorer, your go-to platform for discovering games from rawg.io. Explore a wide range of games, switch between light and dark modes, filter by game genre, platform, and date created, and easily search for your favorite titles. Let the gaming adventure begin! 
 
 ## Features
 
